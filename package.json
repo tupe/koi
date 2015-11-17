@@ -1,0 +1,27 @@
+{
+  "name": "koi",
+  "version": "1.0.0",
+  "description": "Simple Quotation and Invoices Generator",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tupe/koi.git"
+  },
+  "author": [
+    "Mulia Arifandi Nasution",
+    "Candra Dwi Waskito"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tupe/koi/issues"
+  },
+  "homepage": "https://github.com/tupe/koi#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "laravel-elixir": "^3.4.2",
+    "vue": "^1.0.8"
+  }
+}
